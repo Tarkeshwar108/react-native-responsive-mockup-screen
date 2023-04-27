@@ -6,6 +6,11 @@ react-native-responsive-mockup-screen is a small library that provide 2 simple m
 
 ```sh
 npm install react-native-responsive-mockup-screen
+
+or
+
+yarn add react-native-responsive-mockup-screen
+
 ```
 
 ## Usage
