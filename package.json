@@ -1,7 +1,7 @@
 {
   "name": "react-native-responsive-mockup-screen",
   "version": "0.1.0",
-  "description": "test",
+  "description": "react-native-responsive-mockup-screen  is a small library that provide 2 simple method so that react native developer can code their UI elements fully responsive as per their mockup design.No media query needed.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -38,15 +38,17 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "react-native-responsive-screen",
+    "responsive-screen"
   ],
-  "repository": "https://github.com/tarkeshwaryadav/react-native-responsive-mockup-screen",
-  "author": "Tarkeshwar Prasad Yadav <tarkeshwar@bosframework.com> (https://github.com/tarkeshwaryadav)",
+  "repository": "https://github.com/Tarkeshwar108/react-native-responsive-mockup-screen",
+  "author": "Tarkeshwar Prasad Yadav <tarkeshwarprasady@gmail.com> (https://github.com/Tarkeshwar108)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tarkeshwaryadav/react-native-responsive-mockup-screen/issues"
+    "url": "https://github.com/Tarkeshwar108/react-native-responsive-mockup-screen/issues"
   },
-  "homepage": "https://github.com/tarkeshwaryadav/react-native-responsive-mockup-screen#readme",
+  "homepage": "https://github.com/Tarkeshwar108/react-native-responsive-mockup-screen#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
