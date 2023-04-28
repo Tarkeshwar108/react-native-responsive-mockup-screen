@@ -22,10 +22,10 @@ import {
 } from 'react-native-responsive-mockup-screen';
 
 // ...
-let wireFrameWidth = 1024;
-let wireFrameHeight = 1366;
-const result1 = await widthPixelToDp(67, wireFrameWidth);
-const result2 = await heightPixelToDp(100, wireFrameHeight);
+let wireFrameWidth = 1024;  // Figma screen width with which UI is designed.
+let wireFrameHeight = 1366; // Figma screen height with which UI is designed.
+const result1 =  widthPixelToDp(67, wireFrameWidth);
+const result2 =  heightPixelToDp(100, wireFrameHeight);
 ```
 
 ## Contributing
