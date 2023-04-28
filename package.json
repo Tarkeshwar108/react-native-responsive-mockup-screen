@@ -1,6 +1,6 @@
 {
   "name": "react-native-responsive-mockup-screen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "react-native-responsive-mockup-screen  is a small library that provide 2 simple method so that react native developer can code their UI elements fully responsive as per their mockup design.No media query needed.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
